@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>✨About Me</h2>
 
-My name is Akarsh Nuti. I am an aspiring data scientist and I love to code😉. 
+---
 
+My name is Akarsh Nuti. I am an aspiring data scientist and I love to code.   
 Currently I am studying computer science engineering (data science) and improving my coding skills.
+
