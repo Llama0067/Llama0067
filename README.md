@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Llama0067/Llama0067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>✨About Me</h2>
+<h2>About Me✨</h2>
 
 My name is Akarsh Nuti. I am an aspiring data scientist and I love to code.   
 Currently I am studying computer science engineering (data science) and improving my coding skills.
-
+&nbsp;
